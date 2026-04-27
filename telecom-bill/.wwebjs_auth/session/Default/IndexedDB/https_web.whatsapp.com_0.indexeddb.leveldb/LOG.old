@@ -1,0 +1,19 @@
+2026/04/27-08:40:41.964 67bc Reusing MANIFEST D:\KMEdTech\JSbasics\telecom-bill\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/27-08:40:41.972 67bc Recovering log #1862
+2026/04/27-08:40:42.023 67bc Reusing old log D:\KMEdTech\JSbasics\telecom-bill\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001862.log 
+2026/04/27-08:40:43.072 67bc Compacting 1@1 + 1@2 files
+2026/04/27-08:40:43.139 67bc Generated table #1865@1: 57038 keys, 2116110 bytes
+2026/04/27-08:40:43.139 67bc Compacted 1@1 + 1@2 files => 2116110 bytes
+2026/04/27-08:40:43.141 67bc compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/27-08:40:43.142 67bc Delete type=2 #1861
+2026/04/27-08:40:43.142 67bc Delete type=2 #1863
+2026/04/27-08:40:46.911 7638 Level-0 table #1867: started
+2026/04/27-08:40:46.945 7638 Level-0 table #1867: 1031646 bytes OK
+2026/04/27-08:40:46.949 7638 Delete type=0 #1862
+2026/04/27-08:40:56.542 67bc Compacting 1@1 + 1@2 files
+2026/04/27-08:40:56.612 67bc Generated table #1868@1: 59048 keys, 2214484 bytes
+2026/04/27-08:40:56.619 67bc Generated table #1869@1: 1295 keys, 54644 bytes
+2026/04/27-08:40:56.619 67bc Compacted 1@1 + 1@2 files => 2269128 bytes
+2026/04/27-08:40:56.621 67bc compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/04/27-08:40:56.622 67bc Delete type=2 #1865
+2026/04/27-08:40:56.622 67bc Delete type=2 #1867
